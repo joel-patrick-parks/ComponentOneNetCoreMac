@@ -1,0 +1,30 @@
+﻿@using C1GridControl.Models
+@using C1.Web.Mvc.Grid
+@model IEnumerable<Sale>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<style type="text/css">
+    .grid {
+        height: 500px;
+        border: 2px solid #e0e0e0;
+        font-family: Cambria;
+        font-weight: bold;
+    }
+</style>
+
+<c1-flex-grid auto-generate-columns="false" width="800px" class="grid"
+              is-read-only="true" allow-add-new="true"
+              allow-sorting="true"
+              selection-mode="@((SelectionMode.Cell))">
+    <c1-items-source source-collection="@Model"></c1-items-source>
+    <c1-flex-grid-column binding="ID"></c1-flex-grid-column>
+    <c1-flex-grid-column binding="Start"></c1-flex-grid-column>
+    <c1-flex-grid-column binding="Product"></c1-flex-grid-column>
+    <c1-flex-grid-column binding="Amount" format="c"></c1-flex-grid-column>
+    <c1-flex-grid-column binding="Discount" format="p0"></c1-flex-grid-column>
+    <c1-flex-grid-column binding="Active"></c1-flex-grid-column>
+
+</c1-flex-grid>

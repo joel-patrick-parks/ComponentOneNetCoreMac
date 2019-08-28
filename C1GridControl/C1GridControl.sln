@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C1GridControl", "C1GridControl\C1GridControl.csproj", "{13F94D8C-6F73-45A5-AD55-4526B024B758}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13F94D8C-6F73-45A5-AD55-4526B024B758}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13F94D8C-6F73-45A5-AD55-4526B024B758}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13F94D8C-6F73-45A5-AD55-4526B024B758}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13F94D8C-6F73-45A5-AD55-4526B024B758}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

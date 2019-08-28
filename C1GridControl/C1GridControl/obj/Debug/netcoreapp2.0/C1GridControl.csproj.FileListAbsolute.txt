@@ -1,0 +1,11 @@
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/bin/Debug/netcoreapp2.0/C1GridControl.deps.json
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/bin/Debug/netcoreapp2.0/C1GridControl.runtimeconfig.json
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/bin/Debug/netcoreapp2.0/C1GridControl.runtimeconfig.dev.json
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/bin/Debug/netcoreapp2.0/C1GridControl.dll
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/bin/Debug/netcoreapp2.0/C1GridControl.pdb
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/obj/Debug/netcoreapp2.0/C1GridControl.csprojAssemblyReference.cache
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/obj/Debug/netcoreapp2.0/C1GridControl.csproj.CoreCompileInputs.cache
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/obj/Debug/netcoreapp2.0/C1GridControl.AssemblyInfoInputs.cache
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/obj/Debug/netcoreapp2.0/C1GridControl.AssemblyInfo.cs
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/obj/Debug/netcoreapp2.0/C1GridControl.dll
+/Users/customerengagement/Projects/C1GridControl/C1GridControl/obj/Debug/netcoreapp2.0/C1GridControl.pdb

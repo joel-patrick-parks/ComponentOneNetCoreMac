@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{13F94D8C-6F73-45A5-AD55-4526B024B758}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="C1GridControl/Startup.cs">
+    <Files>
+      <File FileName="C1GridControl/Views/Shared/_Layout.cshtml" Line="21" Column="22" />
+      <File FileName="C1GridControl/Views/_ViewImports.cshtml" Line="4" Column="35" />
+      <File FileName="C1GridControl/Models/Sale.cs" Line="55" Column="6" />
+      <File FileName="C1GridControl/Controllers/HomeController.cs" Line="20" Column="41" />
+      <File FileName="C1GridControl/Views/Home/Index.cshtml" Line="30" Column="16" />
+      <File FileName="C1GridControl/License.cs" Line="6" Column="3544" />
+      <File FileName="C1GridControl/Startup.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.C1GridControl FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
